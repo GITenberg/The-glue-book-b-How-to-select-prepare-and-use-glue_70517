@@ -1,0 +1,32 @@
+_repo: The-glue-book-b-How-to-select-prepare-and-use-glue_70517
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taggart, J. A. (James Arthur)
+    alias: Taggart, James Arthur
+    birthdate: 1884
+    deathdate: 1955
+    gutenberg_agent_id: '55785'
+    url: http://www.gutenberg.org/2009/agents/55785
+description: ''
+gutenberg_issued: '2023-04-10'
+identifiers:
+  gutenberg: '70517'
+language: en
+pgterms:marc904: https://archive.org/details/gluebookhowtosel00tagg
+pgterms:marc905: 20220225124747taggart
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: deaurider, Lukas Bystricky and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bJ. A. Taggart, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Glue'
+- !lcc 'TP'
+- GITenberg
+title: 'The glue book : $b How to select, prepare and use glue'
+url: http://www.gutenberg.org/ebooks/70517
