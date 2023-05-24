@@ -1,5 +1,8 @@
 _repo: The-glue-book-b-How-to-select-prepare-and-use-glue_70517
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70517-h/images/cover.jpg
 creator:
   author:
     agent_name: Taggart, J. A. (James Arthur)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '55785'
     url: http://www.gutenberg.org/2009/agents/55785
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70517#The-glue-book-b-How-to-select-prepare-and-use-glue
 gutenberg_issued: '2023-04-10'
 identifiers:
   gutenberg: '70517'
